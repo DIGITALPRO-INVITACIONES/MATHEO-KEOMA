@@ -1,0 +1,7 @@
+MATHEO KEOMA - Bautizo y primer anito
+21 de noviembre de 2026. Misa 16:00; recepcion 16:30.
+
+Publicacion: subir todos los archivos de esta carpeta, incluyendo assets, manteniendo index.html en la raiz.
+La musica comienza al abrir la invitacion. Incluye controles de musica y animacion, calendario, cuenta regresiva, ubicaciones y WhatsApp.
+El boton compartir usa la direccion publica una vez publicada.
+Confirmacion: +591 62715160. Digital Pro: +591 79352293.

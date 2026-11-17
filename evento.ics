@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Matheo Keoma//ES
+BEGIN:VEVENT
+UID:matheo-keoma-20261121@digitalpro
+DTSTAMP:20261116T120000Z
+DTSTART:20261121T200000Z
+DTEND:20261121T203000Z
+SUMMARY:Bautizo de Matheo Keoma
+LOCATION:Templo San Miguel - Km 5½ por Víctor Ustáriz
+DESCRIPTION:Ubicación: https://maps.app.goo.gl/6Eef8poqAVPd9RtbA
+END:VEVENT
+BEGIN:VEVENT
+UID:matheo-keoma-recepcion-20261121@digitalpro
+DTSTAMP:20261116T120000Z
+DTSTART:20261121T203000Z
+SUMMARY:Primer añito de Matheo Keoma - Recepción
+LOCATION:Restauran Sebastian - Km 4
+DESCRIPTION:Ubicación: https://maps.app.goo.gl/JwaN591LFru73yC7A
+END:VEVENT
+END:VCALENDAR
